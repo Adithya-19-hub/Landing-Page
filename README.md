@@ -2,7 +2,7 @@
 
 <h1>Technologies Used</h1>
 <h5>React.js – Component-based UI development</h5>
-<h5>Tailwind CSS – Rapid and responsive styling</h5>
+<h5>Tailwind CSS</h5>
 <h5>React Router DOM – Seamless client-side routing</h5>
 
 <h1>Key Features</h1>
